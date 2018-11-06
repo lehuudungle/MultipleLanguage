@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  DemoLocalize
+
+  Created by Ledung95d on 11/6/18.
+  Copyright © 2018 Apple. All rights reserved.
+*/
+"main_page_language" = "English";
+"main_page_change_languege" = "Change Language";
+"alert_change_language" = "List Language";
+"alert_cancel" = "Cancel";
